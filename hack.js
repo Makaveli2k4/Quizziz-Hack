@@ -1,4 +1,4 @@
-// Enter game code in console first
+// 7083396
 var x = document.createElement("link");
 x.rel = 'stylesheet';
 x.type = 'text/css'
